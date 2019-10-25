@@ -43,7 +43,7 @@ composer create-project tr1st/simple-nette-web-project@dev path/to/install
 
 Application is now installed, fell free to run it and test as you want to.
 
-### Sipe Web Server
+### Simple Web Server
 
 The easiest way is to use php built-in web server. Just type in your console:
 
