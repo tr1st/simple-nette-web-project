@@ -38,7 +38,7 @@ You will need `PHP >= 7.2` and [Composer](https://getcomposer.org/). Be sure you
 Now build you project using composer. 
 
 ```
-composer create-project tr1st/simple-nette-web-project@dev path/to/install
+composer create-project tr1st/simple-nette-web-project -s dev path/to/install
 ```
 
 Application is now installed, fell free to run it and test as you want to.
